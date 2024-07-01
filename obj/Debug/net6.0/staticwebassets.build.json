@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pl24XSSmHTgYnmau5D/JcE9wYFCwumW6BN845UcEIew=",
+  "Source": "AzureTranslator",
+  "BasePath": "_content/AzureTranslator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
